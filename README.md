@@ -41,13 +41,18 @@ cd Projeto-Laurindos-Cafe
 https://github.com/bimaraujo/Projeto-Laurindos-Cafe-/blob/main/index.html
 
 
-Projeto-Laurindo-s-Caf-/
+Projeto-Laurindos-Cafe/
+<br>
    ├── assets/       # Imagens, ícones e fontes
+   <br>
    ├── index.html    # Página principal
+   <br>
    ├── style.css     # Estilos em CSS
+   <br>
+   <br>
 
     
-✨ Funcionalidades
+<h2>✨ Funcionalidades</h2>
    - Layout moderno e atrativo
    - Site totalmente responsivo
    - Menu navegável
