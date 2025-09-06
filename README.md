@@ -9,9 +9,14 @@ Landing page de uma cafeteria, com design moderno e totalmente responsivo, desen
 
  
  <h2>📸 Layout / Imagens</h2>
+<img src="assets/laurindos cafe - 3.png" alt="imagem do site" width="400"/>
+<br>
+<img src="assets/print laurindos cafe -1.png" alt="imagem do site" width="400"/>
+<br>
+<img src="assets/print laurindos cafe - 2.png" alt="imagem do site" width="400"/>
 
-<p>O site apresenta imagens de diferentes cafés:</p>
 
+<h2>O site apresenta imagens de diferentes cafés:</h2>
 Café Americano <br>
 <img src="assets/american.png" alt="Café Americano" width="100"/>
 
