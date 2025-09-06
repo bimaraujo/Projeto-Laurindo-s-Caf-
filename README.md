@@ -1,4 +1,4 @@
-# Projeto Laurindo's Café
+<h1># Projeto Laurindo's Café</h1>
 
 Landing page de uma cafeteria, com design moderno e totalmente responsivo, desenvolvida com HTML, CSS e JavaScript.
 
@@ -7,26 +7,33 @@ Landing page de uma cafeteria, com design moderno e totalmente responsivo, desen
 - CSS
 - Javascript
 
-📸 Layout / Imagens
+ 
+ <h2>📸 Layout / Imagens</h2>
 
-O site apresenta imagens de diferentes cafés:
+<p>O site apresenta imagens de diferentes cafés:</p>
 
-Café Americano
+Café Americano <br>
+<img src="assets/american.png" alt="Café Americano" width="100"/>
 
-Expresso
+Café Expresso <br>
+<img src="assets/cafe-expresso.png" alt="Expresso" width="100"/>
 
-Cappuccino
+Capuccino <br>
+<img src="assets/capuccino.png" alt="Cappuccino" width="100"/>
 
-💡 O site é 100% responsivo, adaptando-se a desktop, tablet e mobile.##
+---
+
+<h2>💡 O site é 100% responsivo, adaptando-se a desktop, tablet e mobile.##</h2>
+
 
 # Clone o repositório
-git clone https://github.com/bimaraujo/Projeto-Laurindo-s-Caf-.git
+git clone https://github.com/bimaraujo/Projeto-Laurindos-Cafe-.git
 
 # Acesse a pasta do projeto
-cd Projeto-Laurindo-s-Caf-
+cd Projeto-Laurindos-Cafe
 
 # Abra o arquivo index.html no navegador
-https://github.com/bimaraujo/Projeto-Laurindo-s-Caf-/blob/main/index.html
+https://github.com/bimaraujo/Projeto-Laurindos-Cafe-/blob/main/index.html
 
 
 Projeto-Laurindo-s-Caf-/
